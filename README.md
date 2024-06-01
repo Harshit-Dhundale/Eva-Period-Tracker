@@ -72,8 +72,6 @@ Defines the layout for the app's main dashboard.
 Handles the layout for user account management, including login, registration, and profile adjustments.
 
 ## Snippets
-![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/176a344a-fd31-4e10-8732-431384e73e3f)  ![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/363bf28f-fe27-4e31-b396-a64c1ce14a1f)
+![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/176a344a-fd31-4e10-8732-431384e73e3f)     ![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/363bf28f-fe27-4e31-b396-a64c1ce14a1f)    ![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/324a83df-b21b-4cf6-95e3-923cea4efb06) 
 
-![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/324a83df-b21b-4cf6-95e3-923cea4efb06)  ![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/97a1c813-6a5e-4c95-92fc-54a6ab46fde2)
-
-![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/851fc5a0-771c-445c-b485-4ed791f3ab25)
+![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/97a1c813-6a5e-4c95-92fc-54a6ab46fde2)    ![image](https://github.com/Harshit-Dhundale/Eva-Period-Tracker-App/assets/120770433/851fc5a0-771c-445c-b485-4ed791f3ab25)
